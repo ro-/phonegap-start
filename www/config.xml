@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.ro.test"
+        id        = "com.ro.socialsports"
         version   = "0.0.1">
-    <name>Test App</name>
+    <name>SocialSports</name>
 
     <description>
-        Testing phonegap shit...
+        Social sporting app
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
